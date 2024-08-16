@@ -38,3 +38,37 @@ Valtio
 👉 Framer Motion Animation: Implement framer motion animations for smooth transitions between different 3D models.
 
 and many more, including code architecture and reusability
+
+
+🤸 Quick Start
+Follow these steps to set up the project locally on your machine.
+
+Prerequisites
+
+Make sure you have the following installed on your machine:
+
+Git
+Node.js
+npm (Node Package Manager)
+Cloning the Repository
+
+git clone https://github.com/DevDivine-001/Ai-Powered-3D-Website-React.Js.git
+cd Ai-Powered-3D-Website-React.Js
+Installation
+
+Install the project dependencies using npm in both client and server folders:
+
+npm install
+Set Up Environment Variables
+
+Create a new file named .env in the root of your project and add the following content:
+
+OPEN_API_KEY=
+Replace the placeholder values with your actual OpenAI credentials. You can obtain these credentials by signing up on the Open website.
+
+Running the Project
+
+Server
+npm start
+Client
+npm run dev
