@@ -1,5 +1,5 @@
 🤖 Introduction
-Create your own style with our new 3D Swag Customization App. Pick colors, add logos, and try AI designs to make your virtual swag unique. Built using React.js, Three.js, and OpenAI to show the usage of a 3D world with AI
+Create your style with our new 3D Swag Customization App. Pick colors, add logos, and try AI designs to make your virtual swag unique. Built using React.js, Three.js, and OpenAI to show the usage of a 3D world with AI
 
 
 ⚙️ Tech Stack
@@ -29,7 +29,7 @@ Valtio
 
 👉 AI-Generated Textures: Implement AI-generated textures for enhanced 3D shirt customization.
 
-👉 Download Options:Dynamically change the application theme based on the selected color, enhancing user experience.
+👉 Download Options: Dynamically change the application theme based on the selected color, enhancing user experience.
 
 👉 Theme Change with Color Selection: Dynamically change the application theme based on the selected color, enhancing user experience
 
@@ -64,7 +64,7 @@ Set Up Environment Variables
 Create a new file named .env in the root of your project and add the following content:
 
 OPEN_API_KEY=
-Replace the placeholder values with your actual OpenAI credentials. You can obtain these credentials by signing up on the Open website.
+Could you replace the placeholder values with your actual OpenAI credentials? You can obtain these credentials by signing up on the Open website.
 
 Running the Project
 
