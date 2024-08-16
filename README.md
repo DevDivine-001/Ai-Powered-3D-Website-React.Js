@@ -2,7 +2,11 @@
 Create your style with our new 3D Swag Customization App. Pick colors, add logos, and try AI designs to make your virtual swag unique. Built using React.js, Three.js, and OpenAI to show the usage of a 3D world with AI
 
 
+<<<<<<< HEAD
 ⚙️ Tech Stack & Skills
+=======
+⚙️ Tech Stack  <>
+>>>>>>> e95bfae (CustomiZePage)
 React.js
 Three.js
 React Three Fiber
