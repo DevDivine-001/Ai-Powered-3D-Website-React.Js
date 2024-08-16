@@ -1,9 +1,9 @@
 
 
-// const CameraRig = () => {
-//   return (
-//     <div>CameraRig</div>
-//   )
-// }
+const CameraRig = () => {
+  return (
+    <div>CameraRig</div>
+  )
+}
 
-// export default CameraRig
+export default CameraRig
