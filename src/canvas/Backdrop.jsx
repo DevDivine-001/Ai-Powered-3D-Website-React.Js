@@ -2,7 +2,7 @@
 
 const Backdrop = () => {
   return (
-    <div>Backdrop</div>
+    <div>back</div>
   )
 }
 
