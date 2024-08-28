@@ -1,6 +1,6 @@
 import express from "express"
 import * as dotenv from "dotenv"
-// import { configuration, OpenAI } from "openai"
+import { configuration, OpenAI } from "openai"
 
 
 dotenv.config()
