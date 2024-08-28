@@ -10,7 +10,7 @@ const router = express.Router();
 const config = new configuration({
     apiKey: process.env.OpenAI_API_KEY
 })
-// const openai = new OpenAIApi(config)
+const openai = new OpenAIApi(config)
 
 router.route('/').get((req, res) => {
     res.status(200).json({ message: "Hello from DALL.E ROUTES" })
